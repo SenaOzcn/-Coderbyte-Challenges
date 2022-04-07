@@ -12,6 +12,6 @@ class Function {
 public static void main (String[] args) {
   Scanner s = new Scanner(System.in);
   Function c = new Function();
-  System.out.print(c.FirstFactorial(s.nexLine()));
+  System.out.print(c.FirstFactorial(s.nextLine()));
  }
 }
