@@ -1,3 +1,4 @@
-# (Coderbyte) Challenges
+# Challenges
 
-- [First Factorial](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/FirstFactorial.java)
+- [First Factorial-Coderbyte](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/FirstFactorial.java)
+- [Lasagna-exercism](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/Lasagna.java)
