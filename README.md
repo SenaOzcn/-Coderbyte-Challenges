@@ -1,1 +1,1 @@
-# -Coderbyte-Challenges
+# (Coderbyte) Challenges
