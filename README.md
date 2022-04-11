@@ -6,3 +6,4 @@
 - [Loopsll- HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/Loopsll.java)
 - [Java-If-Else - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/JavaIfElse.java)
 - [Method Overriding -HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/MethodOverriding.java)
+- [Output Formatting - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/OutputFormatting.java)
