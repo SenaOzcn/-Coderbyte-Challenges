@@ -8,3 +8,4 @@
 - [Method Overriding -HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/MethodOverriding.java)
 - [Output Formatting - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/OutputFormatting.java)
 - [End of file - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/EndOfFile.java)
+- [Java Static Initializer Block - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/Solution.java)
