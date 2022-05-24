@@ -42,7 +42,7 @@ public class Solution {
         int b = scanner.nextInt();
         int h = scanner.nextInt();
         if (b > 0 && h > 0) {
-            System.out.println(h);
+            System.out.println(h * b);
         } else {
             System.out.println("java.lang.Exception: Breadth and height must be positive");
         }
