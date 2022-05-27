@@ -11,3 +11,4 @@
 - [Java Static Initializer Block - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/Solution.java)
 - [Java Int to String - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/JavaIntToString.java)
 - [Java Date And Time - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/JavaDateAndTime.java)
+- [Java Currency Formatter - HackerRank](https://github.com/SenaOzcn/JavaChallenges/blob/MIT-License/JavaCurrencyFormatter.java)
